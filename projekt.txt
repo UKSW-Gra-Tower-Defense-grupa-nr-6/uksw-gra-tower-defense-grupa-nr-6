@@ -2,3 +2,4 @@ Imie i nazwisko:
 Piotr Dąbrowski
 Jan Matczuk
 Stanisław Wiśniewski
+Tomasz Kukiełka 
